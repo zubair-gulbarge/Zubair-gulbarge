@@ -1,30 +1,38 @@
-### Hello, World! 👋
+# ⚡ System Online: Mohammed Zubair
+### AWS Certified Cloud & DevOps Engineer
 
-I'm Zubair Gulbarge, a passionate tech enthusiast with a penchant for innovation and a love for problem-solving. Welcome to my corner of the digital universe! 🌌
+I am a Cloud & Platform Engineer with a unique architectural trajectory. My foundation in full-stack web development allows me to understand application logic from the ground up, while my expertise in AWS enables me to deploy, scale, and secure those applications efficiently.
 
-#### 💻 Tech Stack
-- 🚀 Full-stack development with the MERN (MongoDB, Express.js, React, Node.js) stack is my playground. 
-- ⚙️ I'm a DevOps aficionado, orchestrating seamless CI/CD pipelines and automating deployments.
-- 📊 Data science intrigues me, from wrangling data to uncovering hidden insights and building predictive models.
+Currently, my focus is on **Infrastructure as Code (IaC)**, **containerization**, and building **automated deployment pipelines**.
 
-#### 🛠️ What I Do
-- 🌐 Crafting robust web applications that not only work flawlessly but also offer a delightful user experience.
-- ☁️ Streamlining development workflows with containerization, orchestration, and infrastructure as code.
-- 📈 Exploring the data wilderness, turning raw information into actionable intelligence.
+---
 
-#### 🔍 What I'm Currently Exploring
-- 🌱 Always learning! Currently diving deeper into:
-  - 📊 Data Science tools and libraries like Pandas, NumPy, and Matplotlib for in-depth data analysis.
-  - 🤖 Machine Learning algorithms and techniques, with a focus on predictive modeling and classification.
-  - 🧠 Exploring the fascinating world of Artificial Intelligence and Neural Networks for solving complex problems.
-- 👨‍💻 Collaborating on open-source projects to contribute to the tech community.
+### 🛠️ Technical Arsenal
 
-#### 🚀 Let's Connect
-- 📫 Feel free to reach out to me for discussions, collaborations, or just a good tech chat.
-- 📧 You can reach me at [gulbargezubair@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/zubair-gulbarge-ab79a7148/).
-- 🌐 Check out my personal website (https://zubair-gulbarge.github.io/Portfolio/) for more about my projects and blog posts.
+* **Cloud & DevOps:** AWS (EC2, S3, IAM, Lambda), Docker, Kubernetes, Terraform, GitHub Actions CI/CD
+* **Backend & Systems:** Node.js, Express.js, Python, Flask, MongoDB, RESTful APIs
+* **Frontend Architecture:** React.js, Next.js, Tailwind CSS
 
-#### 🎯 Fun Fact
-- 🌟 When not coding, I'm into cooking up culinary delights 🍳🍲 and exploring captivating Anime worlds 🌸📺.
+---
 
-Thanks for stopping by! Let's code the future together. 🚀
+### 🚀 Current Deployments & Architecture
+
+* **[CloudBox](https://github.com/zubair-gulbarge/file_manager_app):** A production-ready, secure multi-user file management system built with Python and Flask, featuring Role-Based Access Control (RBAC) and isolated storage environments.
+* **Serverless Portfolio Infrastructure:** Engineered a highly available static web architecture using Next.js, exported to AWS S3, and globally distributed via CloudFront with strict Origin Access Control (OAC) defined via Terraform.
+* **Containerized Data Pipelines:** Migrating local MERN stack applications into Dockerized environments for seamless, cross-architecture compatibility.
+
+---
+
+### 📡 Knowledge Base & Transmissions
+
+I document my architectural decisions, cloud migrations, and infrastructure tutorials to help others build scalable systems.
+
+* **Read my latest teardowns on [Dev.to](https://dev.to/zubairlearntech)**
+* **Explore my technical articles on [Hashnode](https://hashnode.com/@zubairlearntech)**
+* **Watch my system deployments on [YouTube](https://www.youtube.com/channel/UC21B_TDaIlMJNMmbod_O2Dw)**
+
+---
+
+### 🤝 Initialize Contact
+* **Portfolio:** [zubairlearntech.com](https://zubairlearntech.com)
+* **Status:** Open to mid-level Cloud Architect, SRE, and Platform Engineering roles.
