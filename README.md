@@ -35,4 +35,5 @@ I document my architectural decisions, cloud migrations, and infrastructure tuto
 
 ### 🤝 Initialize Contact
 * **Portfolio:** [zubairlearntech.com](https://zubairlearntech.com)
+* * **Portfolio:** [gulbarge.tech](https://gulbarge.tech/)
 * **Status:** Open to mid-level Cloud Architect, SRE, and Platform Engineering roles.
